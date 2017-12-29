@@ -3,6 +3,10 @@ html {
     height: 100%;
 }
 
+.destination:hover h2 {
+    transform: rotate(0deg);
+}
+
 *,
 *::before,
 *::after {
